@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varshith</h1>
 <h3 align="center">A passionate frontend developer and Machine learning Enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **TastyGo**
+- 🔭 I’m currently working on **Django **
 
-- 🌱 I’m currently learning **React JS, Deep learning ,Node JS,Data structures and algorithms**
-
-- 👯 I’m looking to collaborate on **MentalGuard AI**
-
-- 🤝 I’m looking for help with **NeuroCare**
+- 🌱 I’m currently learning **Django, Django Rest framework ,machine learning ,Data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varshith1209](https://github.com/varshith1209)
 
